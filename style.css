@@ -1,0 +1,29 @@
+body {
+    background-image: url(SWIATELGA[blur].jpg);
+    background-size: cover;
+    overflow: hidden;
+}
+
+#bankazlt {
+    position: absolute;
+    margin-top: -200px;
+    right: 20px;
+}
+
+#bankaczw {
+    position: absolute;
+    margin-top: -400px;
+}
+
+#banka {
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 400px;
+    cursor: pointer;
+}
+
+#choinka {
+    position: absolute;
+    right: 0;
+    bottom: -460px;
+}

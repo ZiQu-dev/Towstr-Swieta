@@ -1,0 +1,62 @@
+body {
+    background-image: url(SWIATELGA[blur].jpg);
+    background-size: cover;
+    overflow: hidden;
+}
+
+#bankazlt {
+    position: absolute;
+    margin-top: -200px;
+    right: 20px;
+}
+
+#bankaczw {
+    position: absolute;
+    margin-top: -400px;
+}
+
+#banka {
+    position: absolute;
+    margin-top: -500px;
+    margin-left: 400px;
+    cursor: pointer;
+}
+
+#choinka {
+    position: absolute;
+    right: 0;
+    bottom: -460px;
+}
+
+#kartka {
+    position: absolute;
+    width: 550px;
+    height: 750px;
+    background-color: #ff3636;
+    top: 40px;
+    left: 400px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    z-index: 2;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 38px;
+    color: white;
+    align-content: center;
+    font-weight: bold;
+    opacity: 0;
+}
+
+#kartka2 {
+    position: absolute;
+    width: 600px;
+    height: 800px;
+    background-color: #b00000;
+    top: 40px;
+    left: 400px;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    z-index: 1;
+    opacity: 0;
+}
