@@ -10,6 +10,14 @@ body {
     right: 20px;
 }
 
+#sniezka, #sniezka2, #sniezka3, #sniezka4 {
+    position: absolute;
+    color: white;
+    top: -220px;
+    left: 170px;
+    font-size: 200px;
+}
+
 #bankaczw {
     position: absolute;
     margin-top: -400px;
